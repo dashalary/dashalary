@@ -10,7 +10,7 @@ Full Stack Software Engineer with a background in academic philosophy and perfor
 
 **Database:** SQLite3
 
-**Other:** OAuth, Github, JSON
+**Other:** OAuth, Github
 
 
 **Currently learning:** Haskell, C, AWS
