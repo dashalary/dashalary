@@ -1,6 +1,6 @@
 # Dasha Lary
 
-Full Stack Software Engineer with a background in academic philosophy and performing arts. Passionate about collaboration, new technologies, and human connection.
+Full Stack Software Engineer with a background in academic philosophy and performing arts. Passionate about collaboration, new technologies, and human connection. 🌱
 
 ## Technologies
 
@@ -11,6 +11,7 @@ Full Stack Software Engineer with a background in academic philosophy and perfor
 **Database:** SQLite3
 
 **Other:** OAuth, Github, JSON
+
 
 **Currently learning:** Haskell, C, AWS
 
