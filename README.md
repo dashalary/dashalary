@@ -15,9 +15,9 @@ Full Stack Software Engineer with a background in academic philosophy and perfor
 **Currently learning:** Haskell, C
 
 
-## Find me here
+## Connect with Me 
 
-[LinkedIn](https://www.linkedin.com/in/dasha-lary/), [Blog](https://dasha-lary.medium.com)
+[LinkedIn](https://www.linkedin.com/in/dasha-lary/), [Blog](https://dasha-lary.medium.com), [Email]<dasha.k.lary@gmail.com>
 
 <!--
 **dashalary/dashalary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
