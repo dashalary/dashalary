@@ -1,4 +1,4 @@
-### Dasha Lary
+## Dasha Lary
 
 Full Stack Software Engineer with a background in academic philosophy and performing arts. Passionate about collaboration, new technologies, and human connection.
 
