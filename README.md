@@ -12,12 +12,12 @@ Full Stack Software Engineer with a background in academic philosophy and perfor
 
 **Other:** OAuth, Github, JSON
 
-**Currently learning:** Haskell, C
+**Currently learning:** Haskell, C, AWS
 
 
 ## Connect with Me 
 
-[LinkedIn](https://www.linkedin.com/in/dasha-lary/), [Blog](https://dasha-lary.medium.com), [Email] <dasha.k.lary@gmail.com>
+[LinkedIn](https://www.linkedin.com/in/dasha-lary/), [Blog](https://dasha-lary.medium.com)
 
 <!--
 **dashalary/dashalary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
