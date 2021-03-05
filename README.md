@@ -1,6 +1,24 @@
 ### Dasha Lary
 
-Full Stack Software Engineer
+Full Stack Software Engineer with a background in academic philosophy and performing arts. Passionate about collaboration, new technologies, and human connection.
+
+## Technologies
+
+**Frontend:** React, Redux, JavaScript (ES6), Ruby, HTML5, CSS, Bootstrap
+
+**Backend:** Ruby on Rails, Sinatra, SQL
+
+**Database:** SQLite3
+
+**Other:** OAuth, Github, JSON
+
+**Currently learning:** Haskell, C
+
+
+## Find me here
+
+[LinkedIn](https://www.linkedin.com/in/dasha-lary/), [Blog](https://dasha-lary.medium.com)
+
 <!--
 **dashalary/dashalary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
