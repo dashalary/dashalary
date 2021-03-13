@@ -4,7 +4,7 @@ Full Stack Software Engineer with a background in academic philosophy and perfor
 
 ## Technologies
 
-**Frontend:** React, Redux, JavaScript (ES6), Ruby, HTML5, CSS, Bootstrap
+**Frontend:** React, Redux, JavaScript (ES6), Ruby, HTML5, CSS, Bootstrap, Semantic UI
 
 **Backend:** Ruby on Rails, Sinatra, SQL
 
