@@ -13,7 +13,7 @@ Full Stack Software Engineer with a background in academic philosophy and perfor
 **Other:** OAuth, Github
 
 
-**Currently learning:** Haskell, C, AWS
+**Currently learning:** Haskell, C
 
 
 ## Connect with Me 
