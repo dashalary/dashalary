@@ -8,7 +8,7 @@ Full Stack Software Engineer with a background in academic philosophy and perfor
 
 **Backend:** Ruby on Rails, Sinatra, SQL
 
-**Database:** SQLite3
+**Database:** SQLite3, JSON-server
 
 **Other:** OAuth, Github
 
