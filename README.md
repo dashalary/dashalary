@@ -18,7 +18,7 @@ Hi! I'm a Full Stack Software Engineer with a background in academic philosophy 
 
 ## Human Languages
 
-Russian (fluent), French (intermediate), German (elementary)
+Besides English, I speak Russian (fluent), French (intermediate), and German (elementary). 
 
 
 ## Connect with Me 
