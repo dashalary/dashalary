@@ -16,7 +16,7 @@ Hi! I'm a Full Stack Software Engineer with a background in academic philosophy 
 **Currently learning:** Haskell, C
 
 
-## Human Languages
+## Languages
 
 Besides English, I also speak Russian (fluent), French (intermediate), and German (elementary). 
 
