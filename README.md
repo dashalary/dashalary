@@ -10,7 +10,7 @@ Hi! I'm a Full Stack Software Engineer with a background in academic philosophy 
 
 **Database:** SQLite3
 
-**Other:** OAuth, Github
+**Other:** Git, OAuth, Github
 
 
 **Currently learning:** Haskell, C
