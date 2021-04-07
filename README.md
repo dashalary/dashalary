@@ -21,7 +21,7 @@ Hi! I'm a Full Stack Software Engineer with a background in academic philosophy 
 
 
 
-## Connect with Me 
+## Connect with Me ✨
 
 [LinkedIn](https://www.linkedin.com/in/dasha-lary/), [Blog](https://dasha-lary.medium.com)
 
