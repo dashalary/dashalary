@@ -16,9 +16,8 @@ Hi! I'm a Full Stack Software Engineer with a background in academic philosophy 
 **Currently learning:** Haskell, C
 
 
-## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Besides English, I also speak Russian (fluent), French (intermediate), and German (elementary). 
 
 
 ## Connect with Me 
