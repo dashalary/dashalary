@@ -6,14 +6,14 @@ Hi! I'm a Full Stack Software Engineer with a background in academic philosophy 
 
 **Frontend:** React, Redux, JavaScript (ES6), Ruby, HTML5, CSS, Bootstrap, Semantic UI
 
-**Backend:** Ruby on Rails, Sinatra, SQL, JSON Server
+**Backend:** Ruby on Rails, Sinatra, SQL
 
-**Database:** SQLite3
+**Database:** SQLite3, PostgreSQL
 
-**Other:** Git, OAuth, Github
+**Other:** Git, OAuth, Github, JSON Server
 
 
-**Currently learning:** Haskell, C
+**Currently learning:** Haskell, C, Node.js
 
 
 
