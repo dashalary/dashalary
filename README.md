@@ -17,7 +17,7 @@ Hi! I'm a Full Stack Software Engineer with a background in academic philosophy 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact)](https://github.com/dashalary)
 
 
 
