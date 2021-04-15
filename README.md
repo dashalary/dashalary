@@ -1,6 +1,6 @@
 # Dasha Lary
 
-Hi! I'm a Full Stack Software Engineer with a background in academic philosophy and performing arts. I am passionate about collaboration, new technologies, lifelong learning, and human connection. 🌱
+Hi! I'm a Full Stack Software Engineer with a background in philosophy and performing arts. I am passionate about collaboration, new technologies, lifelong learning, and human connection. 🌱
 
 ## Technologies
 
