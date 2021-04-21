@@ -1,6 +1,8 @@
 # Dasha Lary
 
-Hi! I'm a Full Stack Software Engineer with a background in philosophy and performing arts. I am passionate about collaboration, new technologies, lifelong learning, and human connection. 🌱
+Hi! I'm a Full Stack Software Engineer with a background in philosophy and performing arts. I am passionate about collaboration, new technologies, lifelong learning, and human connection. I love to read, do puzzles, and run outdoors 🌱
+
+💡**Fun facts about me:** I ran my first marathon at 19 and I have a twin on the West Coast! 
 
 ## Technologies
 
@@ -13,8 +15,9 @@ Hi! I'm a Full Stack Software Engineer with a background in philosophy and perfo
 **Other:** Git, OAuth, JWT, Github, JSON Server
 
 
-**Currently learning:** Haskell, C, Node.js
+**Currently learning:** Haskell, C
 
+**Familiar with:** Node.js, Angular
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact)](https://github.com/dashalary)
