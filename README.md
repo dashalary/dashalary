@@ -1,6 +1,6 @@
 # Dasha Lary
 
-Hi! I'm a Full Stack Software Engineer with a background in philosophy and performing arts. I am passionate about collaboration, new technologies, lifelong learning, and human connection. I love to read, write poetry, do puzzles, and run outdoors 🌱
+Hi! I'm a Full Stack Software Engineer with a background in philosophy and performing arts. I am passionate about collaboration, new technologies, lifelong learning, and global connection. I grew up on three continents and picked up four languages along the way. I love to read, write poetry, do puzzles, and run outdoors 🌱
 
 💡**Fun facts:** I ran my first marathon at 19 and I have a twin on the West Coast! 
 
