@@ -12,7 +12,7 @@ Hi! I'm a Full Stack Software Engineer with a background in philosophy and perfo
 
 **Database:** SQLite3, PostgreSQL
 
-**Other:** Git, OAuth, JWT, Github, JSON Server
+**Other:** Git, OAuth, JWT, Github, JSON Server, Karma, Mocha
 
 
 **Currently learning:** Haskell, C
