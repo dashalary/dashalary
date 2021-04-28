@@ -20,7 +20,7 @@ Hi! I'm a Full Stack Software Engineer with a background in philosophy and perfo
 **Familiar with:** Node.js, Angular
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
