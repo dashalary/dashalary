@@ -8,16 +8,16 @@ Hi! I'm a Full Stack Software Engineer with a background in philosophy and perfo
 
 **Frontend:** React, Redux, JavaScript (ES6), Ruby, HTML5, CSS, Bootstrap, Semantic UI
 
-**Backend:** Ruby on Rails, Sinatra, SQL
+**Backend:** Rails, Sinatra, SQL
 
 **Database:** SQLite3, PostgreSQL
 
 **Other:** Git, OAuth, JWT, Github, JSON Server
 
 
-**Currently learning:** Haskell, C
+**Familiar with:** Node, C
 
-**Familiar with:** Node.js
+**Currently learning:** Haskell
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
