@@ -7,7 +7,7 @@
 
  💡**Fun facts:** I ran my first marathon at 19 and I have a twin on the West Coast! 
 
-## Technologies and Tools
+<h3> Technologies and Tools </h3>
 
 **Frontend:** React, Redux, JavaScript (ES6), Ruby, HTML5, CSS, Bootstrap, Semantic UI
 
