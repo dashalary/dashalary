@@ -7,7 +7,7 @@
 
  💡**Fun facts:** I ran my first marathon at 19 and I have a twin on the West Coast! 
 
-## Technologies
+<h3 align='center'> Technologies and Tools </h3>
 
 **Frontend:** React, Redux, JavaScript (ES6), Ruby, HTML5, CSS, Bootstrap, Semantic UI
 
@@ -24,7 +24,7 @@
 **Currently learning:** Haskell
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<span align='center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 
 
