@@ -29,7 +29,7 @@
 
 
 
-## Connect with Me ✨
+<h3> Connect with Me ✨ </h3>
 
 - [LinkedIn](https://www.linkedin.com/in/dasha-lary/)
 - [Blog](https://dasha-lary.medium.com)
