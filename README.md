@@ -1,8 +1,8 @@
 # Dasha Lary
 
-Hi! I'm a Full Stack Software Engineer with a background in philosophy and performing arts. I am passionate about collaboration, new technologies, lifelong learning, and global connection. I love to read, write poetry, do puzzles, and run outdoors 🌱
+<p style='font-family:inter;'> Hi! I'm a Full Stack Software Engineer with a background in philosophy and performing arts who's currently based in New York. I am passionate about collaboration, new technologies, lifelong learning, and global connection. I love to read, write poetry, do puzzles, and run outdoors 🌱 </p>
 
-💡**Fun facts:** I ran my first marathon at 19 and I have a twin on the West Coast! 
+<div style='font-family:inter;'>💡**Fun facts:** I ran my first marathon at 19 and I have a twin on the West Coast! 
 
 ## Technologies
 
@@ -28,6 +28,8 @@ Hi! I'm a Full Stack Software Engineer with a background in philosophy and perfo
 
 - [LinkedIn](https://www.linkedin.com/in/dasha-lary/)
 - [Blog](https://dasha-lary.medium.com)
+
+</div>
 
 <!--
 **dashalary/dashalary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
