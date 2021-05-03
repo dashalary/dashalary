@@ -7,7 +7,7 @@
 
  💡**Fun facts:** I ran my first marathon at 19 and I have a twin on the West Coast! 
 
-<h3> Technologies and Tools </h3>
+## Technologies and Tools 
 
 **Frontend:** React, Redux, JavaScript (ES6), Ruby, HTML5, CSS, Bootstrap, Semantic UI
 
@@ -29,7 +29,7 @@
 
 
 
-<h3> Connect with Me ✨ </h3>
+## Connect with Me ✨
 
 - [LinkedIn](https://www.linkedin.com/in/dasha-lary/)
 - [Blog](https://dasha-lary.medium.com)
