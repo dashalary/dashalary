@@ -17,6 +17,7 @@
 
 **Other:** Git, OAuth, JWT, Github, JSON Server
 
+<hr>
 
 **Familiar with:** Node, C
 
