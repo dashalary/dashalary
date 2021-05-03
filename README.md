@@ -24,7 +24,7 @@
 **Currently learning:** Haskell
 
 
-<span align='center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact&langs_count=8)]()</span>
 
 
 
