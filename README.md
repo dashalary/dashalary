@@ -5,7 +5,7 @@
 <p style='font-family:inter;'> Hi! I'm a Full Stack Software Engineer with a background in philosophy and performing arts who's currently based in New York. I am passionate about collaboration, new technologies, lifelong learning, and global connection. When I'm not coding, I enjoy reading, writing poetry, solving puzzles, and running outdoors 🌱 </p>
 
 
- 💡**Fun facts:** I ran my first marathon at 19 and I have a twin on the West Coast! 
+ 💡**Fun fact:** I ran my first marathon at 19 ⚡
 
 ## Technologies and Tools 
 
