@@ -1,4 +1,4 @@
-# Dasha Lary
+# Dasha Lary ~
 
 <div style='font-family:inter;'>
 
@@ -7,7 +7,7 @@
 
  💡**Fun facts:** I ran my first marathon at 19 and I have a twin on the West Coast! 
 
-<h3 align='center'> Technologies and Tools </h3>
+## Technologies and Tools
 
 **Frontend:** React, Redux, JavaScript (ES6), Ruby, HTML5, CSS, Bootstrap, Semantic UI
 
@@ -24,7 +24,7 @@
 **Currently learning:** Haskell
 
 
-<span align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact&langs_count=8)]()</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact&langs_count=8)]()
 
 
 
