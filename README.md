@@ -6,6 +6,8 @@
 
 
  💡**Fun fact:** I ran my first marathon at 19 ⚡
+ 
+ <br>
 
 ## Technologies and Tools 
 
