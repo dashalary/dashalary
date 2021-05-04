@@ -21,7 +21,7 @@
 
 <br>
 
-**Familiar with:** Node, C
+**Familiar with:** Node, C, .NET
 
 **Currently learning:** Haskell
 
