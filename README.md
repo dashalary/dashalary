@@ -17,7 +17,7 @@
 
 **Database:** SQLite3, PostgreSQL
 
-**Other:** Git, OAuth, JWT, Github, JSON Server
+**Other:** Git, OAuth, JWT, Github, JSON Server, AWS
 
 <br>
 
