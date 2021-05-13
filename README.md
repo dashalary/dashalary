@@ -33,6 +33,7 @@
 
 ## Connect with Me ✨
 
+- [Personal Website](https://dashalary.dev)
 - [LinkedIn](https://www.linkedin.com/in/dasha-lary/)
 - [Blog](https://dasha-lary.medium.com)
 
