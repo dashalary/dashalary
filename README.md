@@ -23,7 +23,7 @@
 
 **Familiar with:** Node.js, C, .NET
 
-**Currently learning:** Haskell, C#
+**Currently learning:** Haskell
 
 <br>
 
