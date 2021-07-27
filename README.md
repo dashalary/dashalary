@@ -21,7 +21,7 @@
 
 <br>
 
-**Familiar with:** Node.js, C, .NET
+**Familiar with:** Node.js, C
 
 **Currently learning:** Haskell
 
