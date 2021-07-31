@@ -11,7 +11,7 @@
 
 ## Technologies and Tools 
 
-**Frontend:** React, Redux, JavaScript (ES6), Ruby, HTML5, CSS, Bootstrap, Semantic UI, Material UI
+**Frontend:** React, Redux, JavaScript (ES6), TypeScript, Ruby, HTML5, CSS, Bootstrap, Semantic UI, Material UI
 
 **Backend:** Rails, Sinatra, SQL
 
@@ -21,7 +21,7 @@
 
 <br>
 
-**Familiar with:** Node.js, C
+**Familiar with:** Node.js, C, Vue.js
 
 **Currently learning:** Haskell
 
