@@ -16,11 +16,11 @@
 
 **Database:** SQLite3, PostgreSQL
 
-**Other:** Git, OAuth, JWT, Github, JSON Server, AWS, GraphQL
+**Other:** Git, OAuth, JWT, Github, JSON Server, AWS
 
 <br>
 
-**Familiar with:** Node.js, C, Vue.js
+**Familiar with:** Node.js, C, Vue.js, GraphQL
 
 **Currently learning:** Haskell
 
