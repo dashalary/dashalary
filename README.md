@@ -2,7 +2,7 @@
 
 <div style='font-family:inter;'>
 
-<p style='font-family:inter;'> Hi! I'm a full stack software engineer with a background in philosophy/performing arts and a strong interest in computer science. My passions include collaboration, new technologies, lifelong learning, and open source things. When I'm not coding, I enjoy reading, writing poetry, solving puzzles, and running outdoors 🌱 </p>
+<p style='font-family:inter;'> Hi! I'm a full stack software engineer with a background in philosophy/performing arts and a strong interest in computer science. My passions include collaboration, new technologies, lifelong learning, and open source things. When I'm not coding, I enjoy reading, hiking, and running outdoors 🌱 </p>
 
  
  
