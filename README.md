@@ -8,7 +8,7 @@
  
 
 
-## Technologies and Tools 
+<!-- ## Technologies and Tools 
 
 **Frontend:** React, Redux, JavaScript (ES6), TypeScript, Ruby, HTML5, CSS, Bootstrap, Semantic UI, Material UI
 
@@ -22,12 +22,11 @@
 
 **Familiar with:** Node.js, C, Vue.js, GraphQL
 
-**Currently learning:** Haskell
+**Currently learning:** Haskell -->
 
 <br>
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashalary&layout=compact&langs_count=4&hide=HTML,CSS)]() -->
-
 
 
 ## Connect with Me ✨
