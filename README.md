@@ -31,7 +31,7 @@
 
 ## Connect with Me ✨
 
-- [Portfolio Website](https://dashalary.dev)
+- [Website](https://dashalary.dev)
 - [LinkedIn](https://www.linkedin.com/in/dasha-lary/)
 - [Blog](https://dasha-lary.medium.com)
 
